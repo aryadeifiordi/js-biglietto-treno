@@ -10,9 +10,9 @@
 
 
 // raccolta dati
-const TravelKm = prompt('How many km have to travel?');
+const TravelKm = Number(prompt('How many km have to travel?'));
 
-const Age = prompt('How old are you?');
+const Age = Number(prompt('How old are you?'));
 
 // stampa dati
 
@@ -50,9 +50,7 @@ if(Age > 65){
 
 }
 
-console.log('il prezzo del tuo biglietto: ' + result); 
+console.log('il prezzo del tuo biglietto: ' + result.toFixed(2)); 
 
-// se sono 17 km * 0,21 = 3.57 + sconto 2
+// se sono 17 km * 0,21 = 3.57 + sconto 
 
-var numb = 12312214.124124124;
-numb = numb.toFixed(2);

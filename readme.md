@@ -14,5 +14,13 @@ zero grafica solo js.
 
 Dopo aver trovato le due costanti, ossia i kilometri e l'età 
 
-provvedo alla scontistica in base all'età 
+provvedo al calcolo dei kilometri in base al prezzo del singolo 
+
+se minore di 18 anni applico una scontistica del 20%
+
+se maggiore di 65 anni applico una scontistica del 40%
+
+altrimenti il solo calcolo del prezzo in base ai kilometri
+
+
 
