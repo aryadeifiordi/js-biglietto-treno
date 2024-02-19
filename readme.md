@@ -11,3 +11,8 @@ scrivete lo pseudo code
 preparate lista strumenti
 pensate prima al caso base e poi vi complicate la vita
 zero grafica solo js.
+
+Dopo aver trovato le due costanti, ossia i kilometri e l'età 
+
+provvedo alla scontistica in base all'età 
+
